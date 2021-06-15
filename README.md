@@ -2,7 +2,7 @@
 
 
 ## What is SDCafiine
-SDCafiine is a Homebrew Application for the Nintendo Wii U, that can be loaded with the [homebrew launcher](https://github.com/dimok789/homebrew_launcher). The main feature of this application is the **on-the-fly replacing of files**, which can be used used to loaded modified content from external media (**SD/USB**). It hooks into the file system functions of the WiiU. Whenever a file is accessed, SDCafiine checks if a (modified) version of it present on the SD/US device, and redirect the file operations if needed.
+SDCafiine is a Homebrew Application for the Nintendo Wii U, that can be loaded with the [homebrew launcher](https://github.com/dimok789/homebrew_launcher). The main feature of this application is the **on-the-fly replacing of files**, which can be used used to loaded modified content from external media (**SD/USB**). It hooks into the file system functions of the WiiU. Whenever a file is accessed, SDCafiine checks if a (modified) version of it present on the SD/USB device, and redirect the file operations if needed.
 
 # Which games are supported
 In the past SDCafiine only supported games which already had access to the SD Card (for example Super Smash Bros. for Wii U), but **since version 1.4 all games are supported**.
